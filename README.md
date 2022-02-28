@@ -55,5 +55,5 @@ Discord : https://discord.gg/PhVXpxSNwj
 
 ## Live Preview Video
 
-[![Watch the video]()](https://www.youtube.com/watch?v=1jcvNR38HSM)
+[![Watch the video](DVSCalculatorCLI Thumbnail.png)](https://www.youtube.com/watch?v=1jcvNR38HSM)
 
