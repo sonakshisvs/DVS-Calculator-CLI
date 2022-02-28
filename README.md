@@ -55,4 +55,4 @@ Discord : https://discord.gg/PhVXpxSNwj
 
 ## Live Preview Video
 
-https://www.youtube.com/watch?v=1jcvNR38HSM)
+https://www.youtube.com/watch?v=1jcvNR38HSM
