@@ -48,9 +48,7 @@ If you have any feedback, please reach out to us at devarshishimpi@gmail.com
 
 ## Support
 
-For support, email devarshishimpi@gmail.com or join our Discord Server.
-
-Discord : https://discord.gg/PhVXpxSNwj
+For support, email devarshishimpi@gmail.com
 
 
 ## Live Preview Video
